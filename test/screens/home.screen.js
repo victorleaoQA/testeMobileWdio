@@ -1,5 +1,0 @@
-class HomeScreen {
-    get enterStoreAdress(){
-        
-    }
-}

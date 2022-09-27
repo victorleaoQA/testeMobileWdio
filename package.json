@@ -10,5 +10,9 @@
     },
     "scripts": {
         "test": "wdio run wdio.conf.js"
+    },
+    "dependencies": {
+        "appium-android-driver": "^5.4.1",
+        "webdriverio": "^7.25.0"
     }
 }
